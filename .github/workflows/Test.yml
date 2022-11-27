@@ -1,7 +1,7 @@
 
 name: Building recovery
 
-on:ubuntu-latest
+on: ubuntu-latest
 
 #  release:
 
